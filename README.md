@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chongkai LU
 - 👀 I’m interested in Video Understanding with Deep Learning
-- 🌱 I’m currently a Ph. D. student of EIE of The Hong Kong Polytechnic University.
+- 🌱 I’m currently a Ph. D. student in The Hong Kong Polytechnic University.
 - 📫 Email: chong-kai.lu@connect.polyu.hk
 - 🕸️ Personal website: [chongkai.site](https://chongkai.site)
 
